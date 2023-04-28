@@ -61,7 +61,7 @@ p{
     background-color: #daf1de;
     color: #051f20;  
     border-style: solid; 
-    border-color: #8eb69b; 
+    border-color: #8eb69b;
 }
 
 .feature img{
@@ -84,6 +84,9 @@ main h2 {
     height: 40vw;
     display: flex;
     margin-inline: auto;
+}
+#Work a{
+    padding-left: 75px;
 }
 
 #Contact-Me a {
